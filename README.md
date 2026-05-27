@@ -12,7 +12,7 @@ Premium interactive terminal client for [Kranth](https://kranth.com) — stress-
 | **npm** | `npm i -g @kranth/cli` | ✓ live |
 | **Manual download** | [releases/latest](https://github.com/Kranth-ai/kranth-cli/releases/latest) | ✓ live |
 | Homebrew | `brew install kranth-ai/tap/kranth` | ⏳ tap pending |
-| Cargo | `cargo install kranth-cli` | ⏳ crates.io publish pending |
+| Cargo | `cargo install kranth-cli` | ✓ live |
 
 ## Quick start
 
